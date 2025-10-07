@@ -1,9 +1,3 @@
-# TPC1
-## Autor 
-Lara Carvalho Alves, A111315, (![foto](foto.jpg))
-## Resumo
-Desenvolvimento de uma aplicação para manipulação de listas de inteiros.
-## Resultados
 #TPC3
 lista_numeros=[]
 sair_do_menu=False
@@ -118,3 +112,12 @@ while not sair_do_menu:
         else:
             print("Não há lista guardada!")
         sair_do_menu=True
+
+
+
+    
+
+
+            
+
+
