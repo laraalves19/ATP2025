@@ -1,9 +1,3 @@
-# TPC5
-## Autor
-Lara Carvalho Alves, A111315, (![foto](foto.jpg))
-## Resumo
-Desenvolvimento de uma aplicação para gerir uma turma.
-## Resultados
 #Aplicação para gestão de alunos
 #aluno=(nome, id, [notaTPC, notaProj, notaTeste])
 #turma=[aluno]
